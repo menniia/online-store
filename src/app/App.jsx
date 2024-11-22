@@ -1,7 +1,7 @@
 import Cart from '../features/cart/Cart'
 import CurrencyFilter from '../features/currencyFilter/currencyFilter'
 import Inventory from '../features/inventory/Inventory'
-import './App.css'
+// import './App.css'
 
 const App = ({ state, dispatch }) => {
   return (
